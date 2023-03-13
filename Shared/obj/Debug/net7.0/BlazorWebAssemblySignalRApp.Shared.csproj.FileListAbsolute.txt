@@ -1,0 +1,12 @@
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.deps.json
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.dll
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.pdb
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.dll
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/refint/BlazorWebAssemblySignalRApp.Shared.dll
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/BlazorWebAssemblySignalRApp.Shared.pdb
+/home/alcode/DEV/c#/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net7.0/ref/BlazorWebAssemblySignalRApp.Shared.dll
